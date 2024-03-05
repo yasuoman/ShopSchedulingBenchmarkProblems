@@ -1,0 +1,1 @@
+Benchmark data and related generated data codes for paper "[Demirkol, E., Mehta, S., & Uzsoy, R. (1998). Benchmarks for shop scheduling problems. European Journal of Operational Research, 109(1), 137-141.](https://www.sciencedirect.com/science/article/pii/S0377221797000192)".
